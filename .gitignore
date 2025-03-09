@@ -1,12 +1,10 @@
 # Compiled Object files
-*.o
+Project/*.o
 *.obj
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
+Project/*.d
+Project/*.hex
+Project/*.dep
+Project/RTE/*
 # Compiled Static libraries
 *.a
 *.lib
